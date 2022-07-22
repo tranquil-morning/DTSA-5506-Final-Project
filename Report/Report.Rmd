@@ -69,19 +69,18 @@ The Accuracy of test is about 99.99% for model.
 ![Test Result](Test Result.png)
 
 Belows are expamples of predictions  
-![Prediction Example](Pred example.png)
+![Prediction Example](Pred example.png)  
+
 
 # Code for Report
 
-![Code 1](1.png)  
-![Code 2](2.png)  
-
-![Code 3](3.png)  
-
-![Code 4](4.png)  
-
-![Code 5](5.png)  
-
+![](code-1.png)  
+![](code-2.png)  
+![](code-3.png)  
+![](code-4.png)  
+![](code-5.png)  
+![](code-6.png)  
+![](code-7.png)  
 
 # Discussion & Conclusion
 
